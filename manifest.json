@@ -1,6 +1,6 @@
 {
-    "name": "Backoffice-apollo",
-    "short_name": "Backoffice-apollo",
+    "name": "backoffice-apollo-v2",
+    "short_name": "backoffice-apollo-v2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
